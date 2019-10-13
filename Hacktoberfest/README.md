@@ -2,7 +2,7 @@
 
 ## Strict instructions 
 
-- Please make a new **README(YourName).md** with your name
+- Please make a new **README(YourName).md**
 - Write all information about Hacktoberfest
 - And do not make changes in **README.md**
 
