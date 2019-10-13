@@ -5,7 +5,7 @@
 
 ## About Project
 
-we are creating this community so that other developers can get benefits New Hackathaons.
+This is a community where information about all trending hackathos will be given. Those who do not know about the upcoming hackathos can take advantage of this community. If you also want to become the leader of this community, you can join our Facebook group.
 
 ## How to contribute
  1. Make a Fork.
