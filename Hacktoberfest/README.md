@@ -3,8 +3,8 @@
 ## Strict instructions 
 
 - Please make a new **README(YourName).md**
-- Write all information about Hacktoberfest
-- And do not make changes in **README.md**
+- Write all information about Hacktoberfest inside the **YourName.md** readme file
+- And do not make changes in current **README.md**
 
 ## **Note** 
 
