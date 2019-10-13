@@ -5,7 +5,7 @@
 
 ## About Project
 
-This is a community where information about all trending hackathos will be given. Those who do not know about the upcoming hackathos can take advantage of this community. If you also want to become the leader of this community, you can join our Facebook group.
+This is a community where information about all trending hackathos will be given. Those who do not know about the upcoming hackathos can take advantage of this community. If you also want to become the leader of this community, you can join our Facebook group [TrenHack-Know](https://www.facebook.com/groups/934603130244634/).
 
 ## How to contribute
  1. Make a Fork.
