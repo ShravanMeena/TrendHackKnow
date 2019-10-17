@@ -1,13 +1,14 @@
-What is Hacktoberfest?
+# What is Hacktoberfest?
 Have questions? These are the most Frequently Asked Questions about Hacktoberfest.
 
-Jump to:
+**Jump to:**
 
-General
-Rules
-Events
-Shipping
-General
+[General](#General)
+[Rules](#Rules)
+[Events](#Events)
+[Shipping](#Shipping)
+
+# General
 What is Hacktoberfest?
 
 Hacktoberfest is a month-long celebration of open source software run by DigitalOcean and DEV.
@@ -67,7 +68,7 @@ Why is my pull request in a maturing state on my profile?
 
 In an effort to reduce spam and help maintainers, we’ve introduced a one-week review period for all pull requests. Once you have submitted four eligible PRs (ready-to-review, not drafts), the seven-day review window begins. This period gives maintainers time to identify and label any spammy PRs as invalid. If your PRs are not marked invalid during that window, they will allow you to complete the Hacktoberfest challenge. If during this period any of your PRs are labeled as invalid, you will return to the pending state until you have four eligible PRs, at which point the review period will start again.
 
-Rules
+# Rules
 Do contributions made outside of GitHub count?
 
 No, PRs must be made on the GitHub platform.
@@ -100,7 +101,7 @@ Do PRs have to be accepted/merged?
 
 No, they will still count unless they are spam, irrelevant, or labeled as invalid.
 
-Events
+# Events
 How can I host a Hacktoberfest event?
 
 See the Hacktoberfest Event Organizer Kit: hacktoberfest.digitalocean.com/eventkit
@@ -123,7 +124,7 @@ I’d like to speak/demo at a Hacktoberfest event. Can you give me free infrastr
 
 Great! Please tell us more about your demo at www.digitalocean.com/droplets-for-demos/ and we’ll get back to you soon.
 
-Shipping
+# Shipping
 Will I have to pay anything to receive my T-shirt/stickers?
 
 T-shirts are free of charge for participants, including shipping costs.
